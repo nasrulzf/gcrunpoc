@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gcrunpoc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2b2cb4698343ac0b99da5f2bfdcb5a32049bb41")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a2a62c2a860b1487a141c6d20ab4ee76a45b92a")]
 [assembly: System.Reflection.AssemblyProductAttribute("gcrunpoc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gcrunpoc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

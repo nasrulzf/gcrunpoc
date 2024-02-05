@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gcrunpoc", "gcrunpoc.csproj", "{257D333B-41C7-403A-A9A9-A7CBE17AB94D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{257D333B-41C7-403A-A9A9-A7CBE17AB94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257D333B-41C7-403A-A9A9-A7CBE17AB94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257D333B-41C7-403A-A9A9-A7CBE17AB94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257D333B-41C7-403A-A9A9-A7CBE17AB94D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA8782D1-8919-410C-9F72-81E99C63D0C2}
+	EndGlobalSection
+EndGlobal
